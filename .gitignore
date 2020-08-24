@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.vagrant/
+tmp/
+*.egg-info/
+__pycache__/
+
+*output.txt
