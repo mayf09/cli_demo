@@ -48,3 +48,5 @@ https://click.palletsprojects.com/en/6.x/bashcomplete/
 ### 原理
 
 readline complete
+
+## 7. shell 中的 getopt, getopts
