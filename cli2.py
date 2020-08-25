@@ -9,7 +9,7 @@ def cli():
 
 
 @cli.command()
-@click.option('--count', type=int, help='次数')
+@click.option('--count', default=1, type=int, help='次数')
 @click.argument('name')
 def hello(name, count=1):
     for x in range(count):
